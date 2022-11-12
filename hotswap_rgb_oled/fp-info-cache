@@ -1,4 +1,4 @@
-20600107182382753
+20601775374509704
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -86477,6 +86477,13 @@ LED_3MM
 0
 2
 2
+dumbpad
+OLED
+
+
+0
+4
+4
 dumbpad
 SPARKFUN_PRO_MICRO
 <h3>SparkFun Pro Mico Footprint (with USB connector)</h3>{return}<p>Specifications:{return}<ul><li>Pin count: 24</li>{return}<li>Pin pitch: 0.1"</li>{return}<li>Area:0.7x1.3"</li>{return}</ul></p>{return}<p>Example device(s):{return}<ul><li>SparkFun Pro Micro</li>{return}</ul></p>
